@@ -1,9 +1,9 @@
 # manage_sinhvien_ktx
 php my sql js project
-#decription
+# decription
 this is a web manage using php my sql and java script
-#admin in4
+# admin in4
 user: admin 
 pass : 1234
-#css
+# css
 using bootstrap and a little bit css origin
